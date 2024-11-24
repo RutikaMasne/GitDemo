@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="13" passed="10" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-21T17:15:06 IST" name="Loan department" finished-at="2024-11-21T17:15:07 IST" duration-ms="291">
+    <groups>
+    </groups>
+    <test started-at="2024-11-21T17:15:06 IST" name="Personal Loan" finished-at="2024-11-21T17:15:06 IST" duration-ms="83">
+      <class name="TestPack.day4">
+        <test-method signature="apiHomeLogin()[pri:0, instance:TestPack.day4@12468a38]" started-at="2024-11-21T17:15:06 IST" name="apiHomeLogin" finished-at="2024-11-21T17:15:06 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiHomeLogin -->
+        <test-method signature="mobHomeLogin()[pri:0, instance:TestPack.day4@12468a38]" started-at="2024-11-21T17:15:06 IST" name="mobHomeLogin" finished-at="2024-11-21T17:15:06 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobHomeLogin -->
+        <test-method signature="webHomeLogin(java.lang.String)[pri:0, instance:TestPack.day4@12468a38]" started-at="2024-11-21T17:15:06 IST" name="webHomeLogin" finished-at="2024-11-21T17:15:06 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[personalLoan.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webHomeLogin -->
+      </class> <!-- TestPack.day4 -->
+      <class name="TestPack.day2">
+        <test-method is-config="true" signature="preRequiste()[pri:0, instance:TestPack.day2@9f116cc]" started-at="2024-11-21T17:15:06 IST" name="preRequiste" finished-at="2024-11-21T17:15:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preRequiste -->
+        <test-method signature="ploan()[pri:0, instance:TestPack.day2@9f116cc]" started-at="2024-11-21T17:15:06 IST" name="ploan" finished-at="2024-11-21T17:15:06 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ploan -->
+      </class> <!-- TestPack.day2 -->
+      <class name="TestPack.day1">
+        <test-method signature="Demo()[pri:0, instance:TestPack.day1@4fb61f4a]" started-at="2024-11-21T17:15:06 IST" name="Demo" finished-at="2024-11-21T17:15:06 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+        <test-method is-config="true" signature="lastExecution()[pri:0, instance:TestPack.day1@4fb61f4a]" started-at="2024-11-21T17:15:06 IST" name="lastExecution" finished-at="2024-11-21T17:15:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lastExecution -->
+      </class> <!-- TestPack.day1 -->
+    </test> <!-- Personal Loan -->
+    <test started-at="2024-11-21T17:15:07 IST" name="Car loan" finished-at="2024-11-21T17:15:07 IST" duration-ms="78">
+      <class name="TestPack.day3">
+        <test-method is-config="true" signature="bfSuite()[pri:0, instance:TestPack.day3@4d5d943d]" started-at="2024-11-21T17:15:06 IST" name="bfSuite" finished-at="2024-11-21T17:15:06 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfSuite -->
+        <test-method is-config="true" signature="beeforclass()[pri:0, instance:TestPack.day3@4d5d943d]" started-at="2024-11-21T17:15:07 IST" name="beeforclass" finished-at="2024-11-21T17:15:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beeforclass -->
+        <test-method is-config="true" signature="beforeevery()[pri:0, instance:TestPack.day3@4d5d943d]" started-at="2024-11-21T17:15:07 IST" name="beforeevery" finished-at="2024-11-21T17:15:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeevery -->
+        <test-method signature="mobLogin()[pri:0, instance:TestPack.day3@4d5d943d]" started-at="2024-11-21T17:15:07 IST" name="mobLogin" finished-at="2024-11-21T17:15:07 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobLogin -->
+        <test-method is-config="true" signature="beforeevery()[pri:0, instance:TestPack.day3@4d5d943d]" started-at="2024-11-21T17:15:07 IST" name="beforeevery" finished-at="2024-11-21T17:15:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeevery -->
+        <test-method signature="mobSignInLogin()[pri:0, instance:TestPack.day3@4d5d943d]" started-at="2024-11-21T17:15:07 IST" name="mobSignInLogin" finished-at="2024-11-21T17:15:07 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobSignInLogin -->
+        <test-method is-config="true" signature="beforeevery()[pri:0, instance:TestPack.day3@4d5d943d]" started-at="2024-11-21T17:15:07 IST" name="beforeevery" finished-at="2024-11-21T17:15:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeevery -->
+        <test-method signature="mobSignoutLogin(java.lang.String,java.lang.String)[pri:0, instance:TestPack.day3@4d5d943d]" started-at="2024-11-21T17:15:07 IST" name="mobSignoutLogin" data-provider="getData" finished-at="2024-11-21T17:15:07 IST" duration-ms="14" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firstsetUsername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firstpassword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobSignoutLogin -->
+        <test-method is-config="true" signature="beforeevery()[pri:0, instance:TestPack.day3@4d5d943d]" started-at="2024-11-21T17:15:07 IST" name="beforeevery" finished-at="2024-11-21T17:15:07 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeevery -->
+        <test-method signature="mobSignoutLogin(java.lang.String,java.lang.String)[pri:0, instance:TestPack.day3@4d5d943d]" started-at="2024-11-21T17:15:07 IST" name="mobSignoutLogin" data-provider="getData" finished-at="2024-11-21T17:15:07 IST" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[secondSetUsername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SecondPassword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobSignoutLogin -->
+        <test-method is-config="true" signature="beforeevery()[pri:0, instance:TestPack.day3@4d5d943d]" started-at="2024-11-21T17:15:07 IST" name="beforeevery" finished-at="2024-11-21T17:15:07 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeevery -->
+        <test-method signature="mobSignoutLogin(java.lang.String,java.lang.String)[pri:0, instance:TestPack.day3@4d5d943d]" started-at="2024-11-21T17:15:07 IST" name="mobSignoutLogin" data-provider="getData" finished-at="2024-11-21T17:15:07 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ThirdSetUsername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ThirdPasword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobSignoutLogin -->
+        <test-method signature="webLogin(java.lang.String,java.lang.String)[pri:0, instance:TestPack.day3@4d5d943d]" started-at="2024-11-21T17:15:07 IST" name="webLogin" finished-at="2024-11-21T17:15:07 IST" duration-ms="0" status="FAIL">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Parameter 'URL' is required by @Test on method webLogin but has not been marked @Optional or defined
+in C:\Users\Rutika Masne\New_eclipse\TestNG\testng.xml]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Parameter 'URL' is required by @Test on method webLogin but has not been marked @Optional or defined
+in C:\Users\Rutika Masne\New_eclipse\TestNG\testng.xml
+at org.testng.internal.Parameters.createParams(Parameters.java:270)
+at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:358)
+at org.testng.internal.Parameters.createParameters(Parameters.java:700)
+at org.testng.internal.Parameters.handleParameters(Parameters.java:884)
+at org.testng.internal.Parameters.handleParameters(Parameters.java:740)
+at org.testng.internal.ParameterHandler.handleParameters(ParameterHandler.java:59)
+at org.testng.internal.ParameterHandler.createParameters(ParameterHandler.java:38)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:791)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webLogin -->
+        <test-method is-config="true" signature="afSuite()[pri:0, instance:TestPack.day3@4d5d943d]" started-at="2024-11-21T17:15:07 IST" name="afSuite" finished-at="2024-11-21T17:15:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afSuite -->
+      </class> <!-- TestPack.day3 -->
+    </test> <!-- Car loan -->
+  </suite> <!-- Loan department -->
+</testng-results>
